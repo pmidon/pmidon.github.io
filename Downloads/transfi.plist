@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>ftp://pmidon:Android1@h2.usa.hp.com/transfi-INT.ipa</string>
+                                        <string>http://pmidon.github.io/Downloads/transfi-INT.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
